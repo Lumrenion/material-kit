@@ -39,6 +39,9 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/material-kit/issues"
   },
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",

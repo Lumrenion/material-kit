@@ -28,8 +28,8 @@ $enable-flex: true; // fully adopt flexbox layouts
 $enable-shadows: true; // enable shadows, set to false to turn off shadows
 
 // Core Bootstrap Variables
-@import "bootstrap/scss/functions";
-@import "bootstrap/scss/variables";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
 
 @import "variables/layout";
 @import "variables/menu";
